@@ -46,7 +46,7 @@ jobs:
       # Update the GitHub Issue #
       ###########################
       - name: Update GitHub Issue
-        uses: actions/github-script@v3.1.0
+        uses: actions/github-script@v5.1.0
         id: update-issue
         with:
           # https://octokit.github.io/rest.js/v18#issues-create
@@ -64,7 +64,7 @@ jobs:
       # Close the GitHub Issue #
       ##########################
       - name: Close GitHub Issue
-        uses: actions/github-script@v3.1.0
+        uses: actions/github-script@v5.1.0
         id: close-issue
         with:
           # https://octokit.github.io/rest.js/v18#issues-create
@@ -106,7 +106,7 @@ jobs:
       # Create a GitHub Issue with the info from this build #
       #######################################################
       - name: Update GitHub Issue
-        uses: actions/github-script@v3.1.0
+        uses: actions/github-script@v5.1.0
         id: update-issue
         with:
           # https://octokit.github.io/rest.js/v18#issues-create
