@@ -19,7 +19,7 @@ jupyter-core==4.9.2
 MarkupSafe==2.1.0
 nbformat==5.1.3
 plac==1.3.4
-psutil==5.9.0
+psutil==5.9.4
 PuLP==2.6.0
 py==1.11.0
 pyrsistent==0.18.1
