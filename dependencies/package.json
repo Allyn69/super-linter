@@ -2,7 +2,7 @@
   "name": "super-linter",
   "dependencies": {
     "@coffeelint/cli": "^5.2.4",
-    "@stoplight/spectral": "^6.1.0",
+    "@stoplight/spectral": "^6.5.0",
     "@typescript-eslint/eslint-plugin": "^5.13.0",
     "@typescript-eslint/parser": "^5.13.0",
     "asl-validator": "^2.0.0",
