@@ -16,6 +16,6 @@ PyYAML==6.0
 resolvelib==0.5.4
 rich==11.2.0
 ruamel.yaml==0.17.21
-ruamel.yaml.clib==0.2.6
+ruamel.yaml.clib==0.2.7
 tenacity==8.0.1
 wcmatch==8.3
