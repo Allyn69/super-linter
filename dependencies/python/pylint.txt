@@ -5,5 +5,5 @@ mccabe==0.6.1
 platformdirs==2.5.1
 pylint==2.12.2
 toml==0.10.2
-typing_extensions==4.1.1
+typing_extensions==4.8.0
 wrapt==1.13.3
